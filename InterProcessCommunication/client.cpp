@@ -5,12 +5,12 @@
 #include <sys/socket.h>
 #include <sys/un.h>
 
-const char* SOCKET_PATH = "/tmp/socket";
+const char* SOCKET_PATH = "/tmp/last_socket";
 
 int main() {
     int sock = 0;
     struct sockaddr_un serv_addr;
-    char * hello = "Hello from client";
+    const char * hello = "Hello from client";
 
     if((sock = socket(AF_UNIX,SOCK_STREAM,0)) == 0) {
         perror("Socket failed");

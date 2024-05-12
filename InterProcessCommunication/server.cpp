@@ -7,7 +7,7 @@
 #include <fcntl.h>
 #include <netinet/in.h>
 
-const char* SOCKET_PATH = "/tmp/socket";
+const char* SOCKET_PATH = "/tmp/last_socket";
 
 int main() {
     //store file descriptors for the server socket and the client socket
