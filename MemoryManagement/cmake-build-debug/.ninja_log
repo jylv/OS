@@ -1,0 +1,11 @@
+# ninja log v5
+10	519	1716079039887828489	CMakeFiles/MemoryManagement.dir/main.cpp.o	88e7eab6ec933c9a
+520	631	1716079040002800547	MemoryManagement	e8e9f7837a98af85
+7	317	1716079080412793608	CMakeFiles/MemoryManagement.dir/main.cpp.o	88e7eab6ec933c9a
+317	346	1716079080444126524	MemoryManagement	e8e9f7837a98af85
+7	298	1716079238517817336	CMakeFiles/MemoryManagement.dir/main.cpp.o	88e7eab6ec933c9a
+299	328	1716079238549293004	MemoryManagement	e8e9f7837a98af85
+7	387	1716079322906765836	CMakeFiles/MemoryManagement.dir/main.cpp.o	88e7eab6ec933c9a
+387	422	1716079322943337933	MemoryManagement	e8e9f7837a98af85
+7	441	1716079688736977956	CMakeFiles/MemoryManagement.dir/main.cpp.o	88e7eab6ec933c9a
+441	476	1716079688774882901	MemoryManagement	e8e9f7837a98af85
