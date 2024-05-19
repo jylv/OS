@@ -1,0 +1,3 @@
+/Users/jiayinglyu/CLionProjects/OS/FileManagement/cmake-build-debug/CMakeFiles/FileManagement.dir
+/Users/jiayinglyu/CLionProjects/OS/FileManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiayinglyu/CLionProjects/OS/FileManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
